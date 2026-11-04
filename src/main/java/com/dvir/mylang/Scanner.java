@@ -217,7 +217,7 @@ class Scanner {
 
                     number();
 
-                }else if (isAlpha(c)){
+                }else if (isAlpha(c)) {
 
                     identifier();
 
